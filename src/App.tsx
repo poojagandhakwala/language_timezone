@@ -1,4 +1,3 @@
-import "./App.css";
 import LanguageSelection from "./LanguageSelection.tsx";
 
 function App() {
